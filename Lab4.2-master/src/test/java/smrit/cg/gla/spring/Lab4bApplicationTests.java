@@ -1,4 +1,4 @@
-package smriti.cg.gla.spring;
+package smrit.cg.gla.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
